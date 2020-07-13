@@ -19,7 +19,7 @@ Those are required to run this module:
 And "You must install FSL to work with the nipype in this module".
 
 This was tested on the docker "jihoonkim2100/nnpp" <https://hub.docker.com/r/jihoonkim2100/nnpp> environment
-which leverage tensorflow and keras based on "nipype/nipype":
+which leverage tensorflow and keras based on "nipype/nipype":    
     - docker version : 19.03.1  
     - docker image OS : Debian GNU/Linux 9  
     - host OS : Windows 10 Home  
