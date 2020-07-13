@@ -24,7 +24,7 @@ which leverage tensorflow and keras based on "nipype/nipype":
     - docker image OS : Debian GNU/Linux 9  
     - host OS : Windows 10 Home  
 
-Belows are the reference for this project:
+Belows are the reference for this project:   
     - scikit-learn <https://scikit-learn.org/stable/>  
     - nilearn <https://nilearn.github.io/index.html>  
     - nipype <https://nipype.readthedocs.io/en/latest/index.html>  
