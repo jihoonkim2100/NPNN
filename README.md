@@ -1,5 +1,5 @@
 # NNPP
-This is a programming project for Neurocognitive Methods and Programming (SoSe 2020)
+This is a programming project for Neurocognitive Methods and Programming (SoSe 2020).
 
 This is a Neural Network Programming Project (NNPP) module for Neurocognitive Methods and Programming (SoSe 2020).
 This module provides classes for preprocessing and multi-, and binary classification using simple neural network
@@ -25,12 +25,12 @@ which leverage tensorflow and keras based on "nipype/nipype":
     - host OS : Windows 10 Home  
 
 Belows are the reference for this project:
-    - scikit-learn https://scikit-learn.org/stable/  
-    - nilearn https://nilearn.github.io/index.html  
-    - nipype https://nipype.readthedocs.io/en/latest/index.html  
-    - keras https://keras.io/  
+    - scikit-learn <https://scikit-learn.org/stable/>  
+    - nilearn <https://nilearn.github.io/index.html>  
+    - nipype <https://nipype.readthedocs.io/en/latest/index.html>  
+    - keras <https://keras.io/>  
 
-Additional information will be added TBC.
+Additional information : <https://osf.io/qu3y7/>
 
 Author : JiHoon Kim  
 Last-modified : 13th July 2020
