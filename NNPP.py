@@ -75,7 +75,7 @@ class DataAcquisiton:
     * newfolder : Create new folder.
     * inputd : Load the input data.
     * outputd : Save the output data.
-    * reorder : Coordinate RAS to LAS.
+    * reorder : Coordinate LAS to RAS.
 
     Author : JiHoon Kim
     Last-modified : 13th July 2020
