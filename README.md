@@ -5,7 +5,7 @@ This is a Neural Network Programming Project (NNPP) module for Neurocognitive Me
 This module provides classes for preprocessing and multi-, and binary classification using simple neural network
 based on the "Haxby dataset" <http://data.pymvpa.org/datasets/haxby2001/> with .csv labels.
 
-Those are required to run this module:
+Those are required to run this module:    
     - python : 3.6.10  
     - nibabel : 3.1.1  
     - nipype : 1.6.0 dev0  
